@@ -43,7 +43,8 @@ print("Predicted CO@ for the corresponding weight and volume",predictedCO2)
 
 
 ## Output:
-![Alt text](1.jpg)
+![1](https://github.com/GAYATHRI-K06/Multivariate-Linear-Regression/assets/145742742/663900af-0705-4ea5-948f-202c7c3980d6)
+
 ### Insert your output
 Coefficient: [0.00755095 0.00780526]
 
